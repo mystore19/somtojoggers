@@ -1,7 +1,7 @@
 id,name,category,description,price,stock,image,Whatsapp buy link
-1,0  EIGHT 2,trouser,workouts casual athleisure travel and lounging,6000,10000,images/08 - 2.jpeg,
-2,0 EIGHT 1,trouser,workouts casual athleisure travel and lounging,6000,10000,images/08 1.jpeg,
-3,0 EIGHT,trouser,workouts casual athleisure travel and lounging,6000,10000,images/08.jpeg,
+1,08,trouser,workouts casual athleisure travel and lounging,6000,10000,images/08 - 2.jpeg,
+2,08,trouser,workouts casual athleisure travel and lounging,6000,10000,images/08 1.jpeg,
+3,08,trouser,workouts casual athleisure travel and lounging,6000,10000,images/08.jpeg,
 4,76 LEAGUE,trouser,workouts casual athleisure travel and lounging,6000,10000,images/76 LEAGUE.jpeg,
 5,2009,trouser,workouts casual athleisure travel and lounging,6000,10000,images/2009.jpeg,
 6,ADDIDAS,trouser,workouts casual athleisure travel and lounging,6000,10000,images/ADDIDAS.jpeg,
@@ -14,6 +14,7 @@ id,name,category,description,price,stock,image,Whatsapp buy link
 13,UNITED STATE,trouser,workouts casual athleisure travel and lounging,6000,10000,images/UNITED STATE.jpeg,
 14,ADDIDAS 3 BIAZ,trouser,workouts casual athleisure travel and lounging,7500,10000,images/ADDIDAS 3 BIAZ.jpeg,
 15,NEW GUIDE,trouser,workouts casual athleisure travel and lounging,6000,10000,images/NEW GUIDE.jpeg,
+
 
 
 
